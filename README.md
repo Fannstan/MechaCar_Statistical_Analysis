@@ -13,4 +13,29 @@ Below is the summary of vehicles in the dataset grouped by Manufacturing Lot Num
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.  The current manufacturing data meets this specification totally, but does not meet this design specification for all manufacturing lots individually.  The variance calculated in the total summary shows as 62.29 PSI, which is within design specifications.  The variance calculated for the individual manufacturing lots shows that Lot3 with a variance at 170.29 PSI is well above the design specification of a variance of 100 PSI.  
 
+## T-Tests on Suspension Coils 
+
+T-Test Across All Manufacturing Lots:
+![Del_3_ttest_all_lots](https://user-images.githubusercontent.com/103215123/183308138-07bc1abd-d06e-476d-b2e1-588b4ca4abb6.png)
+
+T-Test to determine if the mean PSI of the dataset across all manufacturing lots is different from the mean 1500 PSI. Here the p-value is equal to 1 which is above the significance level of 0.05 percent and the mean of the sample 1498.78 is within the 95 percent confidence interval. The two means are statistically similar. 
+
+T-Test for Manufacturing Lot 1:
+![Del_3_ttest_lot1](https://user-images.githubusercontent.com/103215123/183308694-cbfc66a9-5bfc-4500-99b6-799577bd5d66.png)
+
+T-Test to determine if the mean PSI for Lot 1 is statistically different from the population mean of 1500 PSI.  The T-Test shows that the p-value is 1.568e-11 which is below the significance level of 0.05 percent and the mean of the sample is within the 95 percent confidence interval The two means are statistically different. 
+
+T-Test for Manufacturing Lot 2: 
+![Del_3_ttest_lot2](https://user-images.githubusercontent.com/103215123/183308800-eff0b8c3-2bd9-4d06-8c51-2a3e7ce01f73.png)
+
+T-Test to determine if the mean PSI for Lot 2 is statistically different from the population mean of 1500 PSI. The T-Test shows that the p-value is 0.0005911 which is below the significance level of 0.05 percent and the mean of the sample is within the 95 percent confidence interval.  The two means are statistically different. 
+
+T-Test for Manufacturing Lot 3: 
+![Del_3_ttest_lot3](https://user-images.githubusercontent.com/103215123/183308885-140c1180-d90d-45f6-9755-99bac02e6b54.png)
+
+T-Test to determine if the mean PSI for Lot 3 is statistically different from the population mean of 1500 PSI.  The T-Test shows that the p-value is 
+
+
+
+
 
