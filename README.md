@@ -37,7 +37,20 @@ T-Test to determine if the mean PSI for Lot 3 is statistically different from th
 
 ## Study Design: MechaCar vs Competition
 
-To design a study to compare MechaCar vs it's Competitors we will need to gather additional data that is of interest to MechaCar's customers. Metrics that might be of interest to MechaCar's customers are price, city or highway fuel efficiency, safety ratings, maintenance, or horsepower.  
+To design a study to compare MechaCar vs it's Competitors we will need to gather additional data that is of interest to MechaCar's customers. Metrics that might be of interest to MechaCar's customers are cost, city or highway fuel efficiency, safety ratings, maintenance, or horsepower.  
+- Design a study that measures the maintenance costs vs those competitors over a 2 year period with the following Metrics:
+  - Cost of equipment
+  - Cost of Labor 
+  - Cost of Replacement parts 
+  - Number of Maintenance Visits 
+  - Manufacturer Warranties Sold
+
+-  Null Hypothesis: MechaCar's maintenance costs are the same as competitors maintenance costs 
+-  Alternative Hypothesis: MechaCar's maintenance costs are different than competitors maintenance costs 
+
+-  Multiple Linear Regression analysis would initially be used to determine which variables have a significant impact on maintenance costs. Then it may be beneficial to conduct a T-Test to determine if the mean of the metric is statistically different from the population mean. 
+-  Data would need to be gathered on equipment prices, types of maintenance visits, cost of replacement parts, labor costs, warranties sold. 
+    
 
 
 
