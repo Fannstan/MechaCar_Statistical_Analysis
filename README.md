@@ -33,7 +33,11 @@ T-Test to determine if the mean PSI for Lot 2 is statistically different from th
 T-Test for Manufacturing Lot 3: 
 ![Del_3_ttest_lot3](https://user-images.githubusercontent.com/103215123/183308885-140c1180-d90d-45f6-9755-99bac02e6b54.png)
 
-T-Test to determine if the mean PSI for Lot 3 is statistically different from the population mean of 1500 PSI.  The T-Test shows that the p-value is 0.1589 which is above the significance level of 0.05 percent and the mean of the sample 1496.14 is within the 95 percent confidence interval. The two means are statistically similar. 
+T-Test to determine if the mean PSI for Lot 3 is statistically different from the population mean of 1500 PSI.  The T-Test shows that the p-value is 0.1589 which is above the significance level of 0.05 percent and the mean of the sample 1496.14 is within the 95 percent confidence interval. The two means are statistically similar.
+
+## Study Design: MechaCar vs Competition
+
+To design a study to compare MechaCar vs it's Competitors we will need to gather additional data that is of interest to MechaCar's customers. Metrics that might be of interest to MechaCar's customers are price, city or highway fuel efficiency, safety ratings, maintenance, or horsepower.  
 
 
 
